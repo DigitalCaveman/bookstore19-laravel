@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c4502fe-f106-4e94-8bec-e7d281fb5520" name="Webprojekt" url="http://bookstore19.s1510456001.student.kwmhgb.at/bookstore19/public">
+        <fileTransfer host="bookstore19.s1510456001.student.kwmhgb.at" port="21" rootFolder="/public_html/bookstore19/laravel">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
